@@ -1,0 +1,20 @@
+{
+  "simulationElapsedSeconds": 56.4091124,
+  "preMeanVdc_V": 1200.0228808109462,
+  "preStdVdc_V": 1.9534170454958297,
+  "transientMinVdc_V": 1152.6621483588056,
+  "transientMaxVdc_V": 1234.4076573405744,
+  "steadyMeanVdc_V": 1199.6235267384407,
+  "steadyStdVdc_V": 2.36158298520759,
+  "steadyMinVdc_V": 1193.2958753973919,
+  "steadyMaxVdc_V": 1206.0495460414668,
+  "steadyPhaseRms_V": [
+    396.51144291765013,
+    397.0978771958624,
+    397.18990215749744
+  ],
+  "phaseImbalancePercent": 0.17092534841097806,
+  "steadyInterlinkPower_W": 990823.66642807028,
+  "steadyBatteryPower_W": 271327.42635425716,
+  "allFinite": true
+}

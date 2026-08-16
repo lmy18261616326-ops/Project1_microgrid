@@ -1,0 +1,35 @@
+{
+  "vdcMinimum_V": 983.3077763021098,
+  "vdcMinimumTime_s": 2.51232,
+  "vdcMaximum_V": 1361.5536511983044,
+  "vdcMaximumTime_s": 0.024959999999999996,
+  "recoveryDefinition": "First 20 ms continuously inside 0.98-1.02 pu after each event",
+  "eventNames": [
+    "ac_step",
+    "dc_0p6MW_on",
+    "grid_connect",
+    "dc_1MW_on",
+    "dc_1MW_off",
+    "grid_voltage_dip"
+  ],
+  "recoverySeconds": [
+    0.041439999999999921,
+    0.066239999999999855,
+    0.082239999999999869,
+    0.043039999999999967,
+    0.078079999999999927,
+    0.00015999999999971593
+  ],
+  "batteryPowerMinimum_W": -611058.92066718021,
+  "batteryPowerMaximum_W": 573553.59567185445,
+  "pvPowerMaximum_W": 1.6500548004407613E+6,
+  "socMinimum_percent": 54.254345809198043,
+  "socMaximum_percent": 54.275054016911128,
+  "jMpvcMaximum": 0.99617975446933982,
+  "jMppcMaximum": 0.34164982456018828,
+  "offMpptTransitionTimes_s": [
+    0.012159999999999999,
+    0.50015999999999994
+  ],
+  "allLoggedSignalsFinite": true
+}

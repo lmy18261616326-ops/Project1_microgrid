@@ -1,0 +1,20 @@
+{
+  "elapsed_s": 126.8515701,
+  "vdcMin_V": 1146.4642020298108,
+  "vdcMax_V": 1320.6853131159694,
+  "vdcGridMean_V": 1206.4640165435223,
+  "prefRawLate_W": 979925.6129809753,
+  "prefLate_W": 967687.62260562857,
+  "qRawLate_var": 0,
+  "qLate_var": 0,
+  "smaxLate_VA": 2.5861904579501841E+6,
+  "prefRawFinal_W": 1.3684815313684924E+6,
+  "prefFinal_W": 1.3672962697527886E+6,
+  "prefAlignedSamples": 66,
+  "prefMaxAlignedError_W": 0,
+  "qAlignedSamples": 5938,
+  "qMaxAlignedError_var": 0,
+  "flagMaximum": false,
+  "limitDuration_s": 0,
+  "allFinite": true
+}

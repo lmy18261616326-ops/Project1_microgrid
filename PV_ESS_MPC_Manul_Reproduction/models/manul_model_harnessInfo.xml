@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">manul_model_EMS_flowchart_final_harness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">Limingyu</P>
+    <P Name="CreatedOn">Wed Aug 12 13:50:17 2026</P>
+    <P Name="ModifiedBy">Limingyu</P>
+    <P Name="LastSaved">Wed Aug 12 13:50:28 2026</P>
+    <P Name="Owner">638</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">EMS_flowchart</P>
+    <P Name="Directory"/>
+    <P Name="FileName">manul_model_EMS_flowchart_final_harness.slx</P>
+    <P Name="SavedVersion">25.1</P>
+    <P Name="HarnessUUID">32f76490-6863-43ff-b296-cb3850023166</P>
+    <P Name="HarnessConnectionsMap">0,1,2,3,4|0,1,2,3|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Signal Editor</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">11|29|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+    <P Name="SysArchSUTModel"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">2d76106a-0742-40f3-ace7-04db5d48c369</P>
+    <P Name="OwnerBDName">manul_model</P>
+  </ModelMetadata>
+</HarnessInformation>

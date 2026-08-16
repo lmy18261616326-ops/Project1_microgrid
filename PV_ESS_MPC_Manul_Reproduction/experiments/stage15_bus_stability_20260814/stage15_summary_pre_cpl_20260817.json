@@ -1,0 +1,23 @@
+{
+  "vdcGlobalMin_V": 982.65176309736364,
+  "vdcGlobalMax_V": 1368.6659708662055,
+  "vdcFinal_V": 1201.2303351292587,
+  "gridRmsPre_V": [
+    402.80460997505872,
+    403.35373649981796,
+    403.22949894279162
+  ],
+  "gridRmsPost_V": [
+    352.93390596257939,
+    353.01728210263974,
+    352.89187301522918
+  ],
+  "gridDipRatio": 0.87552011491531134,
+  "qReferenceLate_var": -399999.99999999994,
+  "qActualLate_var": -397142.1522116249,
+  "batteryPowerMinimum_W": -501024.03430441191,
+  "batteryPowerMaximum_W": 503076.61598883069,
+  "batLimitDuration_s": 0.38303999999999994,
+  "gridLimitDuration_s": 0,
+  "allFinite": true
+}
